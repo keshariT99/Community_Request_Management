@@ -1,2 +1,2 @@
 # Community_Request_Management
-ITPM project - Rural Development
+ITPM Group project - Rural Development
